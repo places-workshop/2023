@@ -15,4 +15,4 @@ will take place on **22 April 2023** at
 To contact the PLACES 2023 programme chairs: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 For information and inquiries about ETAPS 2023 (venue, registration, general
-programme, etc.) [ETAPS 2023 website](https://etaps.org/2023).
+programme, etc.) please see the [ETAPS 2023 website](https://etaps.org/2023).

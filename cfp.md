@@ -11,7 +11,7 @@ permalink: /cfp
 * Abstract registration deadline: **12 February 2023, AoE**
 * Submission deadline: **15 February 2023, AoE**
 * Author notification: 17 March 2023, AoE
-* Workshop: 22 April 2023
+* Workshop: 22 April 2023 in Paris, France
 
 ## Submission Instructions
 
