@@ -6,25 +6,24 @@ permalink: /cfp
 
 # PLACES 2023 Call for Papers
 
-* Submission deadline: 15 February 2023, AoE
+## Important Dates
+
+* Abstract registration deadline: **12 February 2023, AoE**
+* Submission deadline: **15 February 2023, AoE**
 * Author notification: 17 March 2023, AoE
 * Workshop: 22 April 2023
 
+## Submission Instructions
+
 Submission site: <https://easychair.org/conferences/?conf=places2023>
-
-To contact the programme chairs: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-
-## Submissions
 
 Submissions are invited in the general area of programming language approaches
 to concurrency, communication and distribution, ranging from foundational
 issues, through language implementations, to applications and case studies.
 Submissions are peer-reviewed by a minimum of three reviewers, with the aim of
-allocating at least one expert reviewer.  Submissions must  be
-formatted in [**EPTCS style**](http://style.eptcs.org/). 
+allocating at least one expert reviewer.
 
-The proceedings of PLACES 2023 will be published as a volume of EPTCS _(to be
-confirmed)_.
+Submissions must be formatted with the [**EPTCS style**](http://style.eptcs.org/). 
 
 We welcome the following types of submission:
 
@@ -37,9 +36,9 @@ We welcome the following types of submission:
 
   * **Talk proposals** with a maximum length of **2 pages** (with no restriction
     on bibliography or appendices, which the reviewers are not required to
-    read).  Talk proposal may present ongoing work, and work already published
-    elsewhere.  Accepted talk proposals will be presented at the workshop, but
-    will not appear in the PLACES proceedings. 
+    read).  Talk proposal may present ongoing work, as well as work already
+    published elsewhere.  Accepted talk proposals will be presented at the
+    workshop, but will not appear in the PLACES proceedings. 
 
 ## Topics
 
@@ -59,10 +58,13 @@ Relevant topics include, but are not limited to:
   * Concurrency and communication in event processing and business process
     management
 
-## Special Issue
+## Proceedings and Journal Special Issue
 
-Authors of selected papers from PLACES 2023 will be invited to submit extended
-versions of their workshop papers to a special issue of [Information and
+The proceedings of PLACES 2023 with accepted research papers will be published
+as a volume of [EPTCS](https://eptcs.org/).
+
+Authors of selected papers from PLACES 2023 will be later invited to submit
+extended versions of their papers to a special issue of [Information and
 Computation](https://www.journals.elsevier.com/information-and-computation) or
 [JLAMP](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming)
 or [FAC](https://dl.acm.org/journal/fac).
