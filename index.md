@@ -7,7 +7,7 @@ nav_exclude: true
 # PLACES 2023: 14th Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software
 
 **22 April 2023, Paris, France**
-{:style="font-size:1.5em;"}
+{:style="font-size:1.75em;"}
 
 _Workshop affiliated with [ETAPS 2023](https://etaps.org/2023)_
 
@@ -33,5 +33,4 @@ PLACES has had 13 previous iterations; this is the 14th edition.
 * PLACES welcomes the submission of **research papers** (published on
   [EPTCS](https://eptcs.org)) and **talk proposals**.  For details and
   deadlines, see the [Call for Papers](cfp).
-
 * Keynote speaker: **[Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke)**, University of Twente, NL.
