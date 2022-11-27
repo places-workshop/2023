@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Venue
+nav_order: 30
 permalink: /venue
 ---
 

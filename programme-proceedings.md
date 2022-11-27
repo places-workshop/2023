@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Programme and Proceedings
+nav_order: 40
 permalink: /programme-proceedings
 ---
 

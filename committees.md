@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Committees
+nav_order: 20
 permalink: /committee
 ---
 

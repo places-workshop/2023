@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for Papers
+nav_order: 10
 permalink: /cfp
 ---
 
