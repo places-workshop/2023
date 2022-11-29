@@ -2,7 +2,7 @@
 layout: page
 title: Committees
 nav_order: 20
-permalink: /committee
+permalink: /committees
 ---
 
 # PLACES 2023 Committees

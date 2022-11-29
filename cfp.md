@@ -37,7 +37,7 @@ We welcome the following types of submission:
 
   * **Talk proposals** with a maximum length of **2 pages** (with no restriction
     on bibliography or appendices, which the reviewers are not required to
-    read).  Talk proposal may present ongoing work, as well as work already
+    read).  Talk proposals may present ongoing work, as well as work already
     published elsewhere.  Accepted talk proposals will be presented at the
     workshop, but will not appear in the PLACES proceedings. 
 
