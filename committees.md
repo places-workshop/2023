@@ -14,7 +14,6 @@ permalink: /committees
 
 ## Programme Committee
 
-- [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura), University of Kent, UK
 - [Marco Carbone](https://www.itu.dk/~maca), IT University of Copenhagen, DK
 - [Elias Castegren](https://eliasc.github.io), Uppsala University, SE
 - [Silvia Crafa](https://www.math.unipd.it/~crafa), Università di Padova, IT
@@ -27,6 +26,7 @@ permalink: /committees
 - [Andreia Mordido](https://www.di.fc.ul.pt/~amordido), Universidade de Lisboa and LASIGE, PT
 - [Violet Ka I Pun](https://ict.hvl.no/people/violetpun), Western Norway University of Applied Sciences, NO
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto), Gran Sasso Science Institute, IT
+- [Laura Voinea](https://lauravoinea.github.io/), University of Glasgow, UK
 
 ## Organising Committee
 
