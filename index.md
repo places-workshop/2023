@@ -33,4 +33,8 @@ PLACES has had 13 previous iterations; this is the 14th edition.
 * PLACES welcomes the submission of **research papers** (published on
   [EPTCS](https://eptcs.org)) and **talk proposals**.  For details and
   deadlines, see the [Call for Papers](cfp).
-* Keynote speaker: **[Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke)**, University of Twente, NL.
+* Keynote speakers and talks:
+  - **[Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke)**, University of Twente, NL.
+    _"VerCors: Verification of Concurrent Software"_
+  - **[Vasco T. Vasconcelos](https://www.di.fc.ul.pt/~vv)**, University of Lisbon, PT.
+    _"30 Years of Session Types"_
