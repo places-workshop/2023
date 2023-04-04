@@ -10,7 +10,8 @@ permalink: /programme-proceedings
 {: .note }
 The PLACES 2023 proceedings will be available here before the workshop.
 
-Location: **[Institut Henri Poincaré](https://goo.gl/maps/tP5Pjd7dkestV7kb8)**, **Room 01**
+**22 April 2023**<br>
+**[Institut Henri Poincaré](https://goo.gl/maps/tP5Pjd7dkestV7kb8)**, **Room 01**
 {:style="font-size:1.5em;"}
 
 <table id="programme">
@@ -28,7 +29,7 @@ Location: **[Institut Henri Poincaré](https://goo.gl/maps/tP5Pjd7dkestV7kb8)**,
         <td>
           <strong><a href="https://wwwhome.ewi.utwente.nl/~marieke">Marieke Huisman</a></strong>,
           University of Twente, NL.<br>
-          <strong><em>VerCors: Verification of Concurrent Software</em></strong>
+          <strong><em>VerCors & Alpinist: Verification of Optimised GPU Programs</em></strong>
         </td>
     </tr>
     <tr>
