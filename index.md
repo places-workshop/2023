@@ -4,7 +4,7 @@ title: Home
 nav_exclude: true
 ---
 
-# PLACES 2023: 14th Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software
+# PLACES 2023: 14th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
 
 **22 April 2023, Institut Henri Poincaré, Paris, France**
 {:style="font-size:1.75em;"}

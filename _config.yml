@@ -16,7 +16,7 @@
 title: PLACES 2023
 email: places23@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  14th Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software.
+  14th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software.
 baseurl: "/2023" # the subpath of your site, e.g. /blog
 url: "https://places-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

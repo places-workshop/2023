@@ -11,7 +11,7 @@ permalink: /programme-proceedings
 The PLACES 2023 proceedings will be available here before the workshop.
 
 **22 April 2023**<br>
-**[Institut Henri Poincaré](https://goo.gl/maps/tP5Pjd7dkestV7kb8)**, **Room 01**
+**[Institut Henri Poincaré](https://goo.gl/maps/tP5Pjd7dkestV7kb8)**, **Amphitéâtre Darboux**
 {:style="font-size:1.5em;"}
 
 <table id="programme">
