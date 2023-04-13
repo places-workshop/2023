@@ -30,7 +30,7 @@ PLACES has had 13 previous iterations; this is the 14th edition.
 
 ## Highlights
 
-{: .proceedings }
+{: .news }
 The [programme and proceedings](programme-proceedings) of PLACES 2023 are now
 published.
 
