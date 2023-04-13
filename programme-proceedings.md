@@ -7,8 +7,8 @@ permalink: /programme-proceedings
 
 # PLACES 2023 Programme and Proceedings
 
-{: .note }
-The PLACES 2023 proceedings will be available here before the workshop.
+{: .proceedings }
+The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.org/10.4204/EPTCS.378).
 
 **22 April 2023**<br>
 **[Institut Henri Poincaré](https://goo.gl/maps/tP5Pjd7dkestV7kb8)**, **Amphitéâtre Darboux**

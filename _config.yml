@@ -44,6 +44,12 @@ callouts:
   note:
     title: Note
     color: blue
+  proceedings:
+    title: Proceedings
+    color: green
+  news:
+    title: News
+    color: Yellow
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
