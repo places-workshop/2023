@@ -29,7 +29,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td>
           <strong><a href="https://wwwhome.ewi.utwente.nl/~marieke">Marieke Huisman</a></strong>,
           University of Twente, NL.<br>
-          <strong><em>VerCors & Alpinist: Verification of Optimised GPU Programs</em></strong>
+          <strong><em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.1">VerCors & Alpinist: Verification of Optimised GPU Programs</a></em></strong>
         </td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td>Session:<br>Concurrency 1</td>
         <td>
           Felix Stutz.<br>
-          <em>Multiparty Session Types Meet Message Sequence Charts</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Multiparty Session Types Meet Message Sequence Charts</a></em>
         </td>
     </tr>
     <tr class="break">
@@ -49,36 +49,36 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td rowspan="5">Session:<br>Concurrency 2</td>
         <td>
           Matteo Cimini.<br>
-          <em>A Declarative Validator for GSOS Languages</em>
+          <em><a href="https://doi.org/10.4204/EPTCS.378.2">A Declarative Validator for GSOS Languages</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">11:00-11:30</td>
         <td>
           Dominic Orchard, Mihail Munteanu and Paulo Torrens.<br>
-          <em>Communicating Actor Automata: modelling Erlang processes as
-              communicating machines</em>
+          <em><a href="https://doi.org/10.4204/EPTCS.378.4">Communicating Actor Automata: modelling Erlang processes as
+              communicating machines</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">11:30-12:00</td>
         <td>
           Ton Smeele and Sung-Shik Jongmans.<br>
-          <em>Choreographic Programming of Isolated Transactions</em>
+          <em><a href="https://doi.org/10.4204/EPTCS.378.5">Choreographic Programming of Isolated Transactions</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">12:00-12:20</td>
         <td>
           Joseph Paulus, Daniele Nantes-Sobrinho and Jorge A. Pérez.<br>
-          <em>Functions as Processes: The Non-Deterministic Case</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Functions as Processes: The Non-Deterministic Case</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">12:20-12:40</td>
         <td>
           Åsmund Aqissiaq Arild Kløvstad.<br>
-          <em>Concurrent Symbolic Execution with Trace Semantics in Coq</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Concurrent Symbolic Execution with Trace Semantics in Coq</a></em>
         </td>
     </tr>
     <tr class="break">
@@ -91,7 +91,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td>
           <strong><a href="https://www.di.fc.ul.pt/~vv">Vasco T. Vasconcelos</a></strong>,
           University of Lisbon, PT.<br>
-          <strong><em>30 Years of Session Types</em></strong>
+          <strong><em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.2">Thirty Years of Session Types</a></em></strong>
         </td>
     </tr>
     <tr>
@@ -99,21 +99,21 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td rowspan="3">Session:<br>Session types 1</td>
         <td>
           Ross Horne and Luca Padovani.<br>
-          <em>A Logical Account of Subtyping for Session Types</em>
+          <em><a href="https://doi.org/10.4204/EPTCS.378.3">A Logical Account of Subtyping for Session Types</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">15:20-15:50</td>
         <td>
           Bernardo Almeida, Andreia Mordido and Vasco T. Vasconcelos.<br>
-          <em>Kind inference for the FreeST Programming Language</em>
+          <em><a href="https://doi.org/10.4204/EPTCS.378.1">Kind inference for the FreeST Programming Language</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">15:50-16:10</td>
         <td>
           Matthew Alan Le Brun and Ornela Dardha.<br>
-          <em>MAGπ: Types for Failure-Prone Communication</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">MAGπ: Types for Failure-Prone Communication</a></em>
         </td>
     </tr>
     <tr class="break">
@@ -125,14 +125,14 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td rowspan="2">Session:<br>Session types 2</td>
         <td>
           Carlos Alberto Ramirez Restrepo, Juan C. Jaramillo and Jorge A. Pérez.<br>
-          <em>Session-Based Concurrency, Implemented in Maude</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Session-Based Concurrency, Implemented in Maude</a></em>
         </td>
     </tr>
     <tr>
         <td class="time">16:50-17:10</td>
         <td>
           Diogo Poças, Diana Costa, Andreia Mordido and Vasco T. Vasconcelos.<br>
-          <em>Polymorphic Sessions and Sequential Composition of Types</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Polymorphic Sessions and Sequential Composition of Types</a></em>
         </td>
     </tr>
     <tr>
@@ -141,8 +141,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td>
           Mads Rosendahl, Maja H. Kirkeby, Mathias Larsen, Martin Sundman,
           Tjark Petersen and Martin Schoeberl.<br>
-          <em>Language Support for Implementing Algorithms on Low Level Hardware
-              Components</em>
+          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Language Support for Implementing Algorithms on Low Level Hardware Components</a></em>
         </td>
     </tr>
     <tr>
